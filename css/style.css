@@ -3,11 +3,9 @@
 * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
 
-
 body {
 background-color: powderblue;
 }
-
 
 h1 {
 background-color: rgb(255, 165, 0);
@@ -15,7 +13,6 @@ color: hsl(147, 50%, 47%);
 padding: 40px;
 text-align: center;
 }
-
 
 p {
 background-color: #ff00ff;
